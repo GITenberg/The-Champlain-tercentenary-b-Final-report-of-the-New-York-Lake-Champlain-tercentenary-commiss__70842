@@ -1,0 +1,81 @@
+_repo: The-Champlain-tercentenary-b-Final-report-of-the-New-York-Lake-Champlain-tercentenary-commiss__70842
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Foster, David J. (David Johnson)
+    aliases:
+    - Foster, David Johnson
+    - Foster, D. J. (David Johnson)
+    birthdate: 1857
+    deathdate: 1912
+    gutenberg_agent_id: '55941'
+    url: http://www.gutenberg.org/2009/agents/55941
+    wikipedia: https://en.wikipedia.org/wiki/David_J._Foster
+  - agent_name: Knapp, H. Wallace (Horatio Wallace)
+    alias: Knapp, Horatio Wallace
+    birthdate: 1869
+    deathdate: 1929
+    gutenberg_agent_id: '55952'
+    url: http://www.gutenberg.org/2009/agents/55952
+    wikipedia: https://en.wikipedia.org/wiki/H._Wallace_Knapp
+  - agent_name: Mott, Edward
+    birthdate: 1731
+    deathdate: 1800
+    gutenberg_agent_id: '55960'
+    url: http://www.gutenberg.org/2009/agents/55960
+  - agent_name: Nelson, Charles Alexander
+    birthdate: 1839
+    deathdate: 1933
+    gutenberg_agent_id: '55963'
+    url: http://www.gutenberg.org/2009/agents/55963
+  - agent_name: Perkins, George H. (George Henry)
+    aliases:
+    - Perkins, Geo. H. (George Henry)
+    - Perkins, G. H. (George Henry)
+    - Perkins, George Henry
+    birthdate: 1844
+    deathdate: 1933
+    gutenberg_agent_id: '55962'
+    url: http://www.gutenberg.org/2009/agents/55962
+    wikipedia: https://en.wikipedia.org/wiki/George_Henry_Perkins
+creator:
+  authors:
+  - agent_name: Hill, Henry Wayland
+    aliases:
+    - Hill, H. W. (Henry Wayland)
+    - Hill, Henry W. (Henry Wayland)
+    birthdate: 1853
+    deathdate: 1929
+    gutenberg_agent_id: '55946'
+    url: http://www.gutenberg.org/2009/agents/55946
+    wikipedia: https://en.wikipedia.org/wiki/Henry_W._Hill
+  - agent_name: New York (State). Lake Champlain Tercentenary Commission
+    alias: Lake Champlain Tercentenary Commission (N.Y.)
+    gutenberg_agent_id: '55929'
+    url: http://www.gutenberg.org/2009/agents/55929
+description: ''
+gutenberg_issued: '2023-05-23'
+identifiers:
+  gutenberg: '70842'
+  lccn: '14031033'
+language: en
+pgterms:marc904: https://archive.org/details/champlaintercent01newy/page/n5/mode/2up
+pgterms:marc905: 20200711110609hill
+pgterms:marc906: '1913'
+pgterms:marc907: us
+production_note: Sonya Schermann, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bJ. B. Lyon Company, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Champlain, Samuel de, 1574-1635'
+- !lcsh 'Champlain tercentenary celebrations'
+- !lcsh 'Champlain Valley -- Antiquities'
+- !lcc 'F106'
+- GITenberg
+title: 'The Champlain tercentenary : $b Final report of the New York Lake Champlain
+  tercentenary commission'
+url: http://www.gutenberg.org/ebooks/70842
