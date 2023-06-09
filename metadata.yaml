@@ -38,6 +38,9 @@ contributor:
     gutenberg_agent_id: '55962'
     url: http://www.gutenberg.org/2009/agents/55962
     wikipedia: https://en.wikipedia.org/wiki/George_Henry_Perkins
+covers:
+- cover_type: archival
+  image_path: 70842-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Hill, Henry Wayland
@@ -54,6 +57,8 @@ creator:
     gutenberg_agent_id: '55929'
     url: http://www.gutenberg.org/2009/agents/55929
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70842#The-Champlain-tercentenary-b-Final-report-of-the-New-York-Lake-Champlain-tercentenary-commiss_
 gutenberg_issued: '2023-05-23'
 identifiers:
   gutenberg: '70842'
